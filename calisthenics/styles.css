@@ -3,4 +3,11 @@ body{
 }
 div{
     border: 1px red solid;
+    padding: 5px;
+}
+.flex-container{
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
 }
